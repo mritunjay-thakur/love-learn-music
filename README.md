@@ -89,4 +89,4 @@ This project is fueled by:
 
 **Love & Learn Music isn’t just code – it’s my first love letter to music, teaching, and the power of technology to bring melody to everyone!**  
 
-*P.S. Students might occasionally find a hidden piano key surprise on the site. It’s all part of the fun!* 🎵✨  
+P.S. The website has its own rhythm—discover it if you dare!✨ 
